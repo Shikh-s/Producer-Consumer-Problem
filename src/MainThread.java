@@ -5,5 +5,6 @@ public class MainThread {
         ConsumerThread c= new ConsumerThread(comp);
         p.start();
         c.start();
+        
     }
 }

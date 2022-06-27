@@ -1,4 +1,5 @@
 
+
 //user synchronization using synchronized keyword and inter-thread communication using wait() and notify() methods
 public class Company {
     int n;

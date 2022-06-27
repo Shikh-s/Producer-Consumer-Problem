@@ -2,6 +2,7 @@ public class ProducerThread extends Thread{
         Company c;
         ProducerThread(Company c){
             this.c=c;
+            
         }
     public void run() {
             int i=1;
