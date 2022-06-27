@@ -1,5 +1,4 @@
 
-
 public class ConsumerThread extends Thread{
     Company c;
     ConsumerThread(Company c){
